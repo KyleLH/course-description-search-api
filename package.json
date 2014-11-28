@@ -1,7 +1,7 @@
 {
-  "name": "course_description_search_api",
-  "version": "1.0.3",
-  "description": "An API for Bosotn University's class search",
+  "name": "bu-cds-api",
+  "version": "1.0.0",
+  "description": "An API for Bosotn University's course description search",
   "main": "server.js",
   "author": "Kyle Holzinger",
   "license": "ISC",
