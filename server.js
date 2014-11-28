@@ -3,6 +3,7 @@ var jsdom = require("jsdom"),
 
 var cur_course = "";
 var desc_url = "http://www.bu.edu/phpbin/course-search/search.php?page=0&pagesize=1&search=";
+var finished = 0;
 
 module.exports = function(course_name, callback) {
    if (!course_name) {
