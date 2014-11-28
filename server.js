@@ -51,8 +51,8 @@ module.exports = function(course_name) {
       }
    );
    var success_check = setInterval(function () {
+      console.dir("success check...");
       if (finished == 2) {
-         console.dir("success check...");
          console.dir("finished");
          console.dir(cur_class);
          return cur_class;
