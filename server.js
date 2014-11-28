@@ -55,8 +55,8 @@ module.exports = function(course_name) {
          console.dir("success check...");
          console.dir("finished");
          console.dir(cur_class);
-         clearInterval(success_check);
          return cur_class;
+         clearInterval(success_check);
       }
    }, 500);
 };
