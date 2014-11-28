@@ -9,6 +9,6 @@
   "author": "Kyle Holzinger",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^1.2.0",
+    "jsdom": "^1.2.0"
   }
 }
