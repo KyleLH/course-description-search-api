@@ -13,12 +13,13 @@ cds("cascs440");
 /*
 This value will be
 
-{"Spring 2015":{"LEC":[{"section":" A1","instructor":"Margrit Betke","location":" 209"
-}],"LAB":[{"section":" A2","instructor":"Margrit Betke","location":"EMA 304"},
-{"section":" A3","instructor":"Margrit Betke","location":"EMA 304"}]},"description":
-"Introduction to computer systems that exhibit intelligent behavior, in particular, 
-perceptual and robotic  systems. Topics include human computer interfaces, computer 
-vision, robotics, game playing, pattern  recognition, knowledge representation, 
+{"Spring 2015":{"LEC":[{"section":" A1","instructor":"Margrit Betke",
+"location":" 209"}],"LAB":[{"section":" A2","instructor":"Margrit Betke"
+,"location":"EMA 304"},{"section":" A3","instructor":"Margrit Betke",
+"location":"EMA 304"}]},"description":"Introduction to computer systems
+that exhibit intelligent behavior, in particular, perceptual and robotic
+systems. Topics include human computer interfaces, computer vision, 
+robotics, game playing, pattern  recognition, knowledge representation,
 planning"}
 */
 
