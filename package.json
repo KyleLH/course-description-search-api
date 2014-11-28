@@ -1,6 +1,6 @@
 {
   "name": "course_description_search_api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An API for Bosotn University's class search",
   "main": "server.js",
   "author": "Kyle Holzinger",
