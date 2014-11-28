@@ -60,5 +60,3 @@ module.exports = function(course_name) {
       }
    }, 500);
 };
-
-module.exports("cascs440");
