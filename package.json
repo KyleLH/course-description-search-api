@@ -1,18 +1,12 @@
 {
-  "name": "class_finder",
-  "version": "0.0.0",
-  "description": "An API for BU's class search",
-  "main": "test_serv.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "course_description_search_api",
+  "version": "1.0.0",
+  "description": "An API for Boston University's class search",
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^1.0.0",
     "express": "^4.10.1",
-    "express-partial": "^0.1.0",
     "jsdom": "^1.2.0",
-    "request": "^2.47.0"
   }
 }
