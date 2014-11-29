@@ -8,10 +8,14 @@ Tools for searching through the Boston University course description search.
 ```
 var cds = require("course_description_search_api");
 
-cds("cascs440");
+var test = {};
+
+cds("cascs440", function (data) {
+   test = data
+});
 
 /*
-This value will be
+After cds runs, test will have the value
 
 {"Spring 2015":{"LEC":[{"section":" A1","instructor":"Margrit Betke",
 "location":" 209"}],"LAB":[{"section":" A2","instructor":"Margrit Betke"
