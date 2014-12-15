@@ -6,7 +6,7 @@ Tools for searching through the Boston University course description search.
 ##Example
 
 ```
-var cds = require("course_description_search_api");
+var cds = require("bu-cds-api");
 
 var test = {};
 
